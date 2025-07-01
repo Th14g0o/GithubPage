@@ -20,6 +20,8 @@ Este recurso é útil para implementar seus sites estáticos (HTML, CSS e JavaSc
 Mas há uma limitação: como é um serviço estático, ele não suporta scripts do lado do servidor (PHP, Python, etc.).
 
 ### 1. Crie um novo repositório GitHub
+![image](https://github.com/user-attachments/assets/81547914-f404-4cdd-bd03-052d5969ab18)
+
 > Observação: se você ainda não tem uma conta no GitHub, pode criar uma na página inicial.
 
 Como mencionado acima, usaremos o GitHub Pages para hospedar nosso site estático. Nesta primeira etapa, você precisará criar um novo repositório na sua conta.
@@ -68,11 +70,13 @@ Até aqui, você deve estar fazendo a mesma coisa que nos seus outros projetos d
 Para verificar se tudo foi enviado corretamente, você pode abrir seu repositório no GitHub e verificar se o arquivo index.html é exibido. Se sim, você está pronto para a próxima etapa!
 
 Página “Repositório” no GitHub (com o arquivo `index.html`)
+![image](https://github.com/user-attachments/assets/e97f4d79-3575-463b-a618-7e7eb1631c4c)
+
 
 ### 5. Abra as configurações do seu repositório
 Na página do seu repositório, você verá um menu na parte superior. Clique na imagem abaixo, na última opção chamada "Settings" e depois em "Pages" na barra lateral.
 
-Página “Configurações do repositório” no GitHub
+![image](https://github.com/user-attachments/assets/27337c49-6aa4-4358-b5d3-d152d5481593)
 
 Após clicar em "Pages", você será direcionado para a configuração das Páginas do GitHub. É lá que você solicitará ao GitHub que implante seu site online e crie uma URL para ele.
 
@@ -82,18 +86,17 @@ O branch de implantação: qual branch do seu repositório será implantado.
 A pasta de implantação (por padrão, "/root"): qual pasta do repositório você deseja usar como ponto de entrada. Recomendo que você mantenha a opção padrão. Mas você verá que também pode selecionar "/docs" se quiser criar um site do GitHub para suas páginas de documentação (armazenadas no repositório "/docs").
 Vamos nos ater às opções mais padrão e selecionar “main” como seu branch de implantação e manter “/ (root)” como a pasta de implantação.
 
-“Configuração da página do repositório” no GitHub (antes de ativar as páginas do GitHub)
+![image](https://github.com/user-attachments/assets/4e320cf6-985f-4b09-a6b2-4c786a225b0c)
 
-Ao clicar no botão de Salvar, pa aba "Code" vai ser possivel ver uma bolinha. Ela indica se já esta online ou sendo colocada. Verde indica o status online, laranja colocando, vermelho ocorreu algum erro.
+Ao clicar no botão de Salvar, pa aba "Code" vai ser possivel ver uma bolinha no repositorio do Github. Ela indica se já esta online, sendo colocada ou houve erro ao colar online. Verde indica o status online, laranja colocando, vermelho ocorreu algum erro.
 
-“Configuração da página do repositório” no GitHub (após ativar as páginas do GitHub)
+![image](https://github.com/user-attachments/assets/1861fcee-6287-4bc0-a64a-6f9841f6d543)
 
 > Observação: a URL ficara no "Settings">"Pages", e é baseada no seu nome de usuário do GitHub e no nome do repositório, seguindo esse padrão: https://github-username.github.io/repository-name/
 
 Vamos clicar no seu URL para ver a versão online do seu site.
 
-Aqui está o meu!
-“my-cool-site” hospedado no GitHub Pages
+![image](https://github.com/user-attachments/assets/449a5127-5849-44b8-9a8a-0ab1fac06ed3)
 
 ### 6. Adicione uma nova página
 Agora que tudo está configurado, vamos retornar ao nosso IDE e criar uma página about.html.
@@ -117,7 +120,7 @@ Aqui está o modelo que usarei para esta nova página:
 Então, vamos criar um botão na página inicial ( index.html) para abrir a página sobre com um clique.
 ```
 
-##### index.html alteradp
+##### index.html alterado
 ```html
 <! DOCTYPE  html > 
 <html> 
@@ -150,4 +153,4 @@ $ git push origin main
 
 Quando terminar, verifique se as alterações estão online e aguarde um tempinho para o Github colocar online. Depois vá para a URL do seu site e veja se suas alterações
 
-A página inicial do “My Cool Website” foi atualizada com um link “Leia a página sobre”
+![image](https://github.com/user-attachments/assets/2e9a35cf-4437-4999-acff-de210c98a737)
