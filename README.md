@@ -10,6 +10,8 @@ Tentando colocar repositório online pelo próprio Github
 
 [Limites do pages](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
 
+[Docs Git](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
 ## [Como implementar um site estático gratuitamente usando páginas do Github](https://medium.com/flycode/how-to-deploy-a-static-website-for-free-using-github-pages-8eddc194853b)
 > Aprenda como hospedar um site estático de várias páginas gratuitamente usando o GitHub Pages em apenas sete etapas.
 > Gaël Thomas
