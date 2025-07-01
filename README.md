@@ -1,3 +1,9 @@
+![Git](https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Github](https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+![Github Pages](https://img.shields.io/badge/-GithubPages-222222?logo=githubpages&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
+
 # GithubPage
 Tentando colocar repositório online pelo próprio Github
 
@@ -69,9 +75,7 @@ $ git push origin main
 Até aqui, você deve estar fazendo a mesma coisa que nos seus outros projetos do GitHub.
 Para verificar se tudo foi enviado corretamente, você pode abrir seu repositório no GitHub e verificar se o arquivo index.html é exibido. Se sim, você está pronto para a próxima etapa!
 
-Página “Repositório” no GitHub (com o arquivo `index.html`)
 ![image](https://github.com/user-attachments/assets/e97f4d79-3575-463b-a618-7e7eb1631c4c)
-
 
 ### 5. Abra as configurações do seu repositório
 Na página do seu repositório, você verá um menu na parte superior. Clique na imagem abaixo, na última opção chamada "Settings" e depois em "Pages" na barra lateral.
