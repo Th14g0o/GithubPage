@@ -153,4 +153,8 @@ $ git push origin main
 
 Quando terminar, verifique se as alterações estão online e aguarde um tempinho para o Github colocar online. Depois vá para a URL do seu site e veja se suas alterações
 
+##### Novo index.html
 ![image](https://github.com/user-attachments/assets/2e9a35cf-4437-4999-acff-de210c98a737)
+
+##### about.html
+![image](https://github.com/user-attachments/assets/a98196c1-f61f-4d4f-863b-86d23064fd80)
